@@ -23,5 +23,11 @@ modelo 3D y planos - Diseñador
 [código de fritzing](url del archivo .fzz) - diseñador
 [código de FreeCAD](url del archivo .freecad) - diseñador
 
-## Evidencias
-fotos, vídeos, etc. - Constructor
+## Evidencias-construcción
+
+![baquelita](https://github.com/Laura-Tuta/repo_sinNombre/blob/master/ev.1.png?raw=true)
+![circuit](https://github.com/Laura-Tuta/repo_sinNombre/blob/master/ev.2.png?raw=true)
+![baq2](https://github.com/Laura-Tuta/repo_sinNombre/blob/master/ev.3.png?raw=true)
+![ev.4](https://github.com/Laura-Tuta/repo_sinNombre/blob/master/ev.4.png?raw=true)
+![ev.5](https://github.com/Laura-Tuta/repo_sinNombre/blob/master/ev.5.png?raw=true)
+![ev.6](https://github.com/Laura-Tuta/repo_sinNombre/blob/master/ev.6.png?raw=true)
